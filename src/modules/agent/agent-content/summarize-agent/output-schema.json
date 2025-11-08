@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "properties": {
+    "summary": {
+      "type": "string",
+      "description": "The generated summary"
+    },
+    "wordCount": {
+      "type": "number",
+      "description": "Number of words in the summary"
+    }
+  }
+}
+

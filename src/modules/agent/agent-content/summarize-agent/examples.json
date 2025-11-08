@@ -1,0 +1,15 @@
+{
+  "examples": [
+    {
+      "input": {
+        "text": "Artificial intelligence is transforming the way we live and work. It has applications in healthcare, finance, transportation, and many other sectors. Machine learning algorithms can now process vast amounts of data and identify patterns that humans might miss.",
+        "maxLength": 20
+      },
+      "output": {
+        "summary": "AI is revolutionizing multiple sectors through machine learning algorithms that process data and identify patterns.",
+        "wordCount": 16
+      }
+    }
+  ]
+}
+
